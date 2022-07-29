@@ -25,6 +25,7 @@ buttonStart.onclick = function(){
 
 buttonbStop.onclick=function(){
     clearInterval(intevalId);
+
 }
 
 buttonRecord.onclick=function(){
