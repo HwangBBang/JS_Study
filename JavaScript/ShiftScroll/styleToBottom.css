@@ -1,0 +1,28 @@
+*{ box-sizing: border-box;
+} /* padding 을 추가해도 영역의 확장을 막아줌 */
+
+body{margin: 0;}
+.Menu{
+    width: 200px; height: 80px;
+    position: fixed; left: 43.5% ;
+    border-radius: 0 0 30px 30px;
+    background-color: rgba(0,0,0,0.5);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+
+.Menu > span:hover{ /* hover는 마우스 얹었을때 */
+    border-bottom: 2px solid white;
+    cursor: pointer;
+}
+.content{
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div:nth-child(2) {background-color: white;}
+div:nth-child(3) {background-color: rgb(204, 203, 203);}
+div:nth-child(4) {background-color: rgb(116, 116, 116);}
