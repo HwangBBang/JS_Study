@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(200, 200, 200,0.6);
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    position: absolute;
+    left: 20%;
+    
+}
+.butt{
+    position: absolute;
+    right: 0%;
+}
+
+
+textarea{
+    
+    width: 600px;height: 300px;
+    display: flex;
+    justify-items: center;
+    resize: none;
+
+}
