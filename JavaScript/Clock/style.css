@@ -1,0 +1,12 @@
+html, body {
+    margin: 0;
+}
+.container{
+    text-align: center;
+}
+.clock{
+    width: 600px; margin: 5px auto;
+    border: 6px double black;   /* solid 대신 double 사용 */
+    border-radius: 10px;
+    
+}
