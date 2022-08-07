@@ -1,0 +1,48 @@
+body{
+    color:black;
+}
+.container{
+    width: 350px;
+    height: 100vh;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.lotto{
+    text-align: center;
+}
+.numbers{
+    width: 350px;
+    height: 60px;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.eachnum{
+    font-size: 20px;
+    width: 50px; height: 50px;
+    border-radius: 25px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    font-size: 13px;
+    width: 60px; height: 40px;
+    background-color: dimgrey;
+    color: white;
+    border-radius: 25px;
+}
+button:active {
+    font-size: 12px;
+    width: 60px; height: 40px;
+    background-color: dimgrey;
+    color: white;
+}
