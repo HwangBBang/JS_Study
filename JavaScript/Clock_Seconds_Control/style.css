@@ -1,0 +1,23 @@
+*{
+    box-sizing:  border-box;
+    font-size: 32px;
+}
+
+body{
+    margin: 0;
+    background-color: antiquewhite;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.clock{
+    min-width: 360px;
+    margin: 0 auto;
+    padding: 50px 0;
+    text-align: center;
+    border: 3px black;
+    border-style: outset hidden hidden outset;
+    border-radius: 10px;
+    
+}
