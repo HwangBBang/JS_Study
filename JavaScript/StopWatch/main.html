@@ -13,7 +13,7 @@
         <h2>STOPWATCH</h2> 
         <h1>
             <span id ='minutes'>00</span> :
-            <span id ='sconeds'>00 </span> :
+            <span id ='sconeds'>00 </span>:
             <span id ='tenMillis'>00</span>
         </h1>
         <button id ="bt_start">Start</button>
@@ -23,13 +23,20 @@
     </div>
 
     <div class = "record">
-    <h2> Record </h2>
-    <h4> last lap </h4>
-        <span id ='r_minutes'>00</span> :
-        <span id ='r_sconeds'>00</span> :
-        <span id ='r_tenMillis'>00</span>
-    <h4> all lap </h4>
-        <span id ='r_times'>00 : 00 : 00</span>
+        <h2> Record </h2>
+
+        <h4> &lt;Last-Lap&gt; </h4>
+
+        <div class="lap">
+            <span id ='r_minutes'>00</span> : <span id ='r_sconeds'>00</span> : <span id ='r_tenMillis'>00</span>
+        </div>
+    </div>
+    <div class = 'gridBox'>
+        <h4> &lt;All-Lap&gt; </h4>
+
+        <div class="lap" id = 'allLap'>
+            <span id ='r_times'>#1. 00 : 00 : 00</span>
+        </div>
     </div>
     <script src = "SW_script.js"></script>
 </body>
