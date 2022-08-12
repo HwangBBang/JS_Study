@@ -6,6 +6,8 @@ let r_minutes = 0 ;
 let r_seconds = 0 ;
 let r_tenMillis = 0;
 
+let record_list = [];
+
 const appendTen = document.getElementById("tenMillis");
 const appendSec = document.getElementById("sconeds");
 const appendMin = document.getElementById("minutes");
@@ -16,7 +18,9 @@ const buttonRecord = document.getElementById("bt_record");
 const recordTen = document.getElementById("r_tenMillis");
 const recordSec = document.getElementById("r_sconeds");
 const recordMin = document.getElementById("r_minutes");
+const recordTimes = document.getElementById("r_times");
 
+let step;
 let intevalId;
 
 buttonStart.onclick = function(){
@@ -24,16 +28,25 @@ buttonStart.onclick = function(){
 }
 
 buttonbStop.onclick=function(){
-    clearInterval(intevalId);
-
+    if(intevalId!=null){clearInterval(intevalId);}
 }
-
+//record를 
 buttonRecord.onclick=function(){
+// 기존 레코드
     r_minutes = minutes; r_seconds = seconds ;r_tenMillis = tenMillis;
     recordMin.textContent = r_minutes> 9 ? r_minutes : "0"+ r_minutes;
     recordSec.textContent = r_seconds> 9 ? r_seconds : "0"+ r_seconds;
     recordTen.textContent = r_tenMillis> 9 ? r_tenMillis : "0"+ r_tenMillis;
-}
+// 레코드 리스트 
+    record_list.push(recordMin.textContent +' : '+ recordSec.textContent +' :'+ recordTen.textContent);
+    console.log(record_list.length)
+// 레코드 리스트 요소들을 전부 출력
+    for(step = 0; step < record_list.length; step++){
+        recordTimes.textContent = record_list[step];
+        console.log(record_list[step]);
+        }
+    }
+
 
 buttonReset.onclick=function(){
     clearInterval(intevalId);
