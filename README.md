@@ -1,6 +1,9 @@
 ### JS_Study
 ## 공유 템플릿 : [Notion :Js_Study](https://www.notion.so/JavaScript-React-Study-2c6d5ac36b9b4ec292d0b508fbffae23 )
 
+<br><br>
+### Learning Table
+
 |날짜|주차|상태|주 차별 학습내용|
 |----|:----:|:----:|:----|
 |22/06/30|1주차|DONE  |HTML&Internet 1-36강 , 처음 만나는 리액트 1-5강|
@@ -15,10 +18,8 @@
 |22/09/01|10주차|NOT STARTED  |자바스크립트 실습, 리액트43강~50강 |
 
 
-
-
-
-
+<br><br>
+### Achievement
 |GitHub|이름|팀|주차 학습| 주간 회고| 주중 잔디심기 | 과제 | 멘토 & 멘티 준비 |
 |---|-----|----------------------|:----:|:----:|:----:|:----:|:----:|
 | [GitHub](https://github.com/HwangBBang)| 황병훈 | 팀장 | 00 / 10|  00 / 10| 00 / 10| 00 / 10| 00 / 10|
