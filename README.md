@@ -2,13 +2,19 @@
 공유 템플릿 : [Notion :Js_Study](https://www.notion.so/JavaScript-React-Study-2c6d5ac36b9b4ec292d0b508fbffae23 )
 #### 팀원
 
-|링크|이름|팀|
-|---|-----------|----------------------|
-| [GitHub](https://github.com/HwangBBang)| 황병훈 | 팀장      |
-| [GitHub](https://github.com/123ksj)| 김수정 | 팀원        |
-| [GitHub](https://github.com/subsub97)| 김득호 | 팀원      |
-| [GitHub](https://github.com/YangJinHyeok) | 양진혁 | 팀원      | 
-| [GitHub](https://github.com/sugyeong-lee) | 이수경 | 팀원        | 
+
+
+
+
+
+
+|GitHub|이름|팀|주차 학습|주간 회고|잔디심기|과제|멘토 준비|
+|---|-----------|----------------------|----|----|----|----|----|
+| [GitHub](https://github.com/HwangBBang)| 황병훈 | 팀장      | 00 / 10|  00 / 10| 00 / 10| 00 / 10| 00 / 10|
+| [GitHub](https://github.com/123ksj)| 김수정 | 팀원        | 00 / 10|  00 / 10| 00 / 10| 00 / 10| 00 / 10|
+| [GitHub](https://github.com/subsub97)| 김득호 | 팀원      | 00 / 10|  00 / 10| 00 / 10| 00 / 10| 00 / 10|
+| [GitHub](https://github.com/YangJinHyeok) | 양진혁 | 팀원      | 00 / 10|  00 / 10| 00 / 10| 00 / 10| 00 / 10| 
+| [GitHub](https://github.com/sugyeong-lee) | 이수경 | 팀원        | 00 / 10|  00 / 10| 00 / 10| 00 / 10| 00 / 10| 
 
 ## JavaScript 스터디
 JS 학습 <br>
