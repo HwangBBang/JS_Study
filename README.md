@@ -1,7 +1,8 @@
-### JS_Study
+## JavaScript 스터디
 ## 공유 템플릿 : [Notion :Js_Study](https://www.notion.so/JavaScript-React-Study-2c6d5ac36b9b4ec292d0b508fbffae23 )
 
-<br><br>
+<br>
+
 ### Learning Table
 
 |날짜|주차|상태|주 차별 학습내용|
@@ -28,7 +29,7 @@
 | [GitHub](https://github.com/YangJinHyeok) | 양진혁 | 팀원 | 00 / 10|  00 / 10| 00 / 10| 00 / 10| 00 / 10| 
 | [GitHub](https://github.com/sugyeong-lee) | 이수경 | 팀원 | 00 / 10|  00 / 10| 00 / 10| 00 / 10| 00 / 10| 
 
-## JavaScript 스터디
+## Study Group Plan
 JS 학습 <br>
 ➢ Html 복습 <br>
 - Html 의 기본적인 문법 과 구조를 리마인드 (1주차) <br>
