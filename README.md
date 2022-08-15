@@ -1,5 +1,5 @@
-## JavaScript 스터디
-## 공유 템플릿 : [Notion :Js_Study](https://www.notion.so/JavaScript-React-Study-2c6d5ac36b9b4ec292d0b508fbffae23 )
+# JavaScript 스터디
+### 공유 템플릿 : [Notion :Js_Study](https://www.notion.so/JavaScript-React-Study-2c6d5ac36b9b4ec292d0b508fbffae23 )
 
 <br>
 
