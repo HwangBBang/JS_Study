@@ -23,11 +23,11 @@
 ### Achievement
 |GitHub|이름|팀|주차 학습| 주간 회고| 주중 잔디심기 | 과제 | 멘토 & 멘티 준비 | 총점 |
 |---|-----|----------------------|:----:|:----:|:----:|:----:|:----:|:----:|
-| [GitHub](https://github.com/HwangBBang)| 황병훈 | 팀장 | 10 / 10|  10 / 10| 10 / 10 | 09 / 10| 10 / 10| 98/100|
-| [GitHub](https://github.com/123ksj)| 김수정 | 팀원 | 10 / 10|  10 / 10| 06 / 10| 10 / 10 | 09 / 10| 90/100|
-| [GitHub](https://github.com/subsub97)| 김득호 | 팀원 | 10 / 10|  10 / 10| 10 / 10| 08 / 10 | 09 / 10| 96/100| 
-| [GitHub](https://github.com/YangJinHyeok) | 양진혁 | 팀원 | 10 / 10|  09 / 10| 08 / 10| 10 / 10| 09 / 10| 92/100| 
-| [GitHub](https://github.com/sugyeong-lee) | 이수경 | 팀원 | 10 / 10|  10 / 10| 08 / 10| 09 / 10 | 08 / 10| 90/100| 
+| [GitHub](https://github.com/HwangBBang)| 황병훈 | 팀장 | 10 / 10|  10 / 10| 10 / 10 | 09 / 10| 10 / 10| 98 / 100|
+| [GitHub](https://github.com/123ksj)| 김수정 | 팀원 | 10 / 10|  10 / 10| 06 / 10| 10 / 10 | 09 / 10| 90 / 100|
+| [GitHub](https://github.com/subsub97)| 김득호 | 팀원 | 10 / 10|  10 / 10| 10 / 10| 08 / 10 | 09 / 10| 96 / 100| 
+| [GitHub](https://github.com/YangJinHyeok) | 양진혁 | 팀원 | 10 / 10|  09 / 10| 08 / 10| 10 / 10| 09 / 10| 92 / 100| 
+| [GitHub](https://github.com/sugyeong-lee) | 이수경 | 팀원 | 10 / 10|  10 / 10| 08 / 10| 09 / 10 | 08 / 10| 90 / 100| 
 
 ## Study Group Plan
 JS 학습 <br>
