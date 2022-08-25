@@ -27,7 +27,7 @@
 | [GitHub](https://github.com/123ksj)| 김수정 | 팀원 | 10 / 10|  10 / 10| 06 / 10| 10 / 10 | 09 / 10| 90 / 100|
 | [GitHub](https://github.com/subsub97)| 김득호 | 팀원 | 10 / 10|  10 / 10| 10 / 10| 08 / 10 | 09 / 10| 96 / 100| 
 | [GitHub](https://github.com/YangJinHyeok) | 양진혁 | 팀원 | 10 / 10|  09 / 10| 08 / 10| 10 / 10| 09 / 10| 92 / 100| 
-| [GitHub](https://github.com/sugyeong-lee) | 이수경 | 팀원 | 10 / 10|  10 / 10| 08 / 10| 09 / 10 | 08 / 10| 90 / 100| 
+| [GitHub](https://github.com/sugyeong-lee) | 이수경 | 팀원 | 10 / 10|  10 / 10| 08 / 10| 09 / 10 | 09 / 10| 92 / 100| 
 
 ## Study Group Plan
 JS 학습 <br>
